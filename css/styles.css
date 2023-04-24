@@ -1,0 +1,13 @@
+body {
+  background: rgb(250, 239, 205);
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  color: green;
+}
